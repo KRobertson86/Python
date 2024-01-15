@@ -12,3 +12,5 @@ The full details of the data can be found [here](www.instacart.com/datasets/groc
 For this project, the following Python libraries were used:
 - pandas- for data analysis
 - seaborn- for data visualization
+- numpy- for mathematical equations
+- matplotlib- for data visualization
