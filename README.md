@@ -1,4 +1,5 @@
 # Instacart Analysis
+Data portfolio project using data from Instacart to analyze sales trends and customer shopping practices.
 ## Objective
 For this assignment, I acted as an analyst for the company, Instacart. I used the data to uncover information about their sales patterns. The objective of this study is to analyze customer behavior and uncover patterns for growth. 
 ## Data
